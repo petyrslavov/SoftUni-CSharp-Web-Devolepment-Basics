@@ -1,0 +1,16 @@
+D:\New folder\Apps\SMS\SMS.Data\bin\Debug\netstandard2.0\SMS.Data.deps.json
+D:\New folder\Apps\SMS\SMS.Data\bin\Debug\netstandard2.0\SMS.Data.dll
+D:\New folder\Apps\SMS\SMS.Data\bin\Debug\netstandard2.0\SMS.Data.pdb
+D:\New folder\Apps\SMS\SMS.Data\bin\Debug\netstandard2.0\SIS.HTTP.dll
+D:\New folder\Apps\SMS\SMS.Data\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+D:\New folder\Apps\SMS\SMS.Data\bin\Debug\netstandard2.0\SMS.Models.dll
+D:\New folder\Apps\SMS\SMS.Data\bin\Debug\netstandard2.0\SMS.Models.pdb
+D:\New folder\Apps\SMS\SMS.Data\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+D:\New folder\Apps\SMS\SMS.Data\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+D:\New folder\Apps\SMS\SMS.Data\obj\Debug\netstandard2.0\SMS.Data.csprojAssemblyReference.cache
+D:\New folder\Apps\SMS\SMS.Data\obj\Debug\netstandard2.0\SMS.Data.csproj.CoreCompileInputs.cache
+D:\New folder\Apps\SMS\SMS.Data\obj\Debug\netstandard2.0\SMS.Data.AssemblyInfoInputs.cache
+D:\New folder\Apps\SMS\SMS.Data\obj\Debug\netstandard2.0\SMS.Data.AssemblyInfo.cs
+D:\New folder\Apps\SMS\SMS.Data\obj\Debug\netstandard2.0\SMS.Data.csproj.CopyComplete
+D:\New folder\Apps\SMS\SMS.Data\obj\Debug\netstandard2.0\SMS.Data.dll
+D:\New folder\Apps\SMS\SMS.Data\obj\Debug\netstandard2.0\SMS.Data.pdb
